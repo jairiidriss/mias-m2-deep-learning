@@ -51,3 +51,4 @@
     <td><a href="colab">Projects</a></td>
   </tr>
 </table>
+For further questions and more information, please, contact me at: idriss.jairi@univ-lille.fr
