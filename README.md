@@ -1,4 +1,6 @@
 <h1>Machine Learning and Deep Learning Course</h1>
+Master MIAS M2 - Machine Learning and Deep Learning Course: Lecture slides and lab notebooks
+
 
 <table>
   <tr>
